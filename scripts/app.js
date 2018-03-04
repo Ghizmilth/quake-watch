@@ -1,6 +1,6 @@
 // globals
 var weekly_quakes_endpoint =
-  "http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.geojson";
+  "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.geojson";
 var $info_row_target;
 var map;
 
